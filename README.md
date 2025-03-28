@@ -10,3 +10,5 @@
 9. SQL syntax (Link: https://www.tpointtech.com/sql-syntax )
 10. SQL Data Types (Link: https://www.tpointtech.com/sql-data-types )
 11. SQL Operators (Link: https://www.tpointtech.com/sql-operators )
+12. Types SQL and DBMS Language
+13. 
